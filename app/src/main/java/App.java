@@ -5,7 +5,7 @@
 
 public class App {
     public String getGreeting() {
-        return "Gradle build and Git workflow successful.";
+        return "Updated message by Student B";
     }
 
     public static void main(String[] args) {
