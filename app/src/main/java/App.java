@@ -5,7 +5,7 @@
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Gradle build and Git workflow successful.";
     }
 
     public static void main(String[] args) {
